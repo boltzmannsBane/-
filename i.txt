@@ -1,0 +1,3 @@
+headless mode
+
+unzip filename.zip -d /path/to/destination
